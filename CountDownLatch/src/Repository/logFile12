@@ -1,0 +1,60 @@
+[ExeStack: [int v; v=4; while (v+0) print(v); v=v-1 ; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v+0) print(v); v=v-1 ; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v+0) print(v); v=v-1 ; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v+0) print(v); v=v-1 ; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v+0) print(v); v=v-1 ; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v+0) print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [int v; v=4; while (v+0) print(v); v=v-1 ; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v+0) print(v); v=v-1 ; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v+0) print(v); v=v-1 ; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v+0) print(v); v=v-1 ; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v+0) print(v); v=v-1 ; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v+0) print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+

@@ -1,0 +1,30 @@
+[ExeStack: [int v; v=2; print(v)  ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=2; print(v) , int v]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=2; print(v) ]
+Symbol table: {v=0}
+Out list:: []
+]
+
+[ExeStack: [print(v), v=2]
+Symbol table: {v=0}
+Out list:: []
+]
+
+[ExeStack: [print(v)]
+Symbol table: {v=2}
+Out list:: []
+]
+
+[ExeStack: []
+Symbol table: {v=2}
+Out list:: [2]
+]
+

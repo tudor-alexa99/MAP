@@ -1,0 +1,510 @@
+[ExeStack: [int v; v=4; while (Model.Expressions.RelationalExpression@69663380) execute {print(v); v=v-1  }; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [v=4; while (Model.Expressions.RelationalExpression@69663380) execute {print(v); v=v-1  }; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [v=4; while (Model.Expressions.RelationalExpression@69663380) execute {print(v); v=v-1  }; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [while (Model.Expressions.RelationalExpression@69663380) execute {print(v); v=v-1  }; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [while (Model.Expressions.RelationalExpression@69663380) execute {print(v); v=v-1  }; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) execute {print(v); v=v-1  }]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [int v; v=4; while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [v=4; while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [v=4; while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1]
+Symbol table: {v=4}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1]
+Symbol table: {v=3}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1]
+Symbol table: {v=2}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 , v=v-1]
+Symbol table: {v=1}
+Out list:: [4, 3, 2, 1]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v), while (Model.Expressions.RelationalExpression@69663380) print(v); v=v-1 ]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [print(v)]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: []
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1, 0]
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [int v; v=4; while (v>0) print(v); v=v-1 ; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [v=4; while (v>0) print(v); v=v-1 ; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [v=4; while (v>0) print(v); v=v-1 ; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [while (v>0) print(v); v=v-1 ; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [while (v>0) print(v); v=v-1 ; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=4}
+Out list:: []
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=4}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=3}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=2}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=1}
+Out list:: [4, 3, 2, 1]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [print(v)]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: []
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1, 0]
+Heap: Model.ADT.MyHeap@73c6c3b2]
+
+[ExeStack: [int v; v=4; while (v>0) print(v); v=v-1 ; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v>0) print(v); v=v-1 ; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v>0) print(v); v=v-1 ; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v>0) print(v); v=v-1 ; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v>0) print(v); v=v-1 ; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=4}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=3}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=2}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=1}
+Out list:: [4, 3, 2, 1]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: [ {}]]
+
+[ExeStack: [print(v)]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: [ {}]]
+
+[ExeStack: []
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1, 0]
+Heap: [ {}]]
+
+[ExeStack: [int v; v=4; while (v>0) print(v); v=v-1 ; print(v)   ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v>0) print(v); v=v-1 ; print(v)  , int v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [v=4; while (v>0) print(v); v=v-1 ; print(v)  ]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v>0) print(v); v=v-1 ; print(v) , v=4]
+Symbol table: {v=0}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [while (v>0) print(v); v=v-1 ; print(v) ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=4}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=4}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=3}
+Out list:: [4]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=3}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=2}
+Out list:: [4, 3]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=2}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , print(v); v=v-1 ]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1, print(v)]
+Symbol table: {v=1}
+Out list:: [4, 3, 2]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 , v=v-1]
+Symbol table: {v=1}
+Out list:: [4, 3, 2, 1]
+Heap: [ {}]]
+
+[ExeStack: [print(v), while (v>0) print(v); v=v-1 ]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: [ {}]]
+
+[ExeStack: [print(v)]
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1]
+Heap: [ {}]]
+
+[ExeStack: []
+Symbol table: {v=0}
+Out list:: [4, 3, 2, 1, 0]
+Heap: [ {}]]
+

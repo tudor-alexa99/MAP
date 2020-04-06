@@ -1,0 +1,385 @@
+[ExeStack: [String varf; varf=test1.in; Opening ./src/Repository/test1.in; int varc; Reading varf-->varc; print(varc); Closing varf      ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=test1.in; Opening ./src/Repository/test1.in; int varc; Reading varf-->varc; print(varc); Closing varf     , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=test1.in; Opening ./src/Repository/test1.in; int varc; Reading varf-->varc; print(varc); Closing varf     ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening ./src/Repository/test1.in; int varc; Reading varf-->varc; print(varc); Closing varf    , varf=test1.in]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=false}
+Out list:: []
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf        ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf       ]
+Symbol table: {varf=}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf      ]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf     , Opening varf]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf     ]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf    , int varc]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf    ]
+Symbol table: {varc=0, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [print(varc); Reading varf-->varc; print(varc); Closing varf   , Reading varf-->varc]
+Symbol table: {varc=0, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [print(varc); Reading varf-->varc; print(varc); Closing varf   ]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Closing varf  , print(varc)]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Closing varf  ]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [print(varc); Closing varf , Reading varf-->varc]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [print(varc); Closing varf ]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [Closing varf, print(varc)]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [Closing varf]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15, 50]
+]
+
+[ExeStack: []
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15, 50]
+]
+
+[ExeStack: [String varf; varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc         ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc        , String varf]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [varf=./src/Repository/test.in.txt; Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc        ]
+Symbol table: {varf=}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc       , varf=./src/Repository/test.in.txt]
+Symbol table: {varf=}
+Out list:: []
+]
+
+[ExeStack: [Opening varf; int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc       ]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc      , Opening varf]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [int varc; Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc      ]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc     , int varc]
+Symbol table: {varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc     ]
+Symbol table: {varc=0, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc    , Reading varf-->varc]
+Symbol table: {varc=0, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [print(varc); Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc    ]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc   , print(varc)]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: []
+]
+
+[ExeStack: [Reading varf-->varc; print(varc); Closing varf; Reading varf-->varc   ]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [print(varc); Closing varf; Reading varf-->varc  , Reading varf-->varc]
+Symbol table: {varc=15, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [print(varc); Closing varf; Reading varf-->varc  ]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [Closing varf; Reading varf-->varc , print(varc)]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15]
+]
+
+[ExeStack: [Closing varf; Reading varf-->varc ]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15, 50]
+]
+
+[ExeStack: [Reading varf-->varc, Closing varf]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15, 50]
+]
+
+[ExeStack: [Reading varf-->varc]
+Symbol table: {varc=50, varf=./src/Repository/test.in.txt}
+Out list:: [15, 50]
+]
+

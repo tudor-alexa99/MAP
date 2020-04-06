@@ -1,0 +1,780 @@
+[ExeStack: [Ref(int) v; Model.Statements.Heap.NewStatement@5f4da5c3; Ref(Ref(int)) a; Model.Statements.Heap.NewStatement@443b7951; Model.Statements.Heap.NewStatement@14514713; print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [Model.Statements.Heap.NewStatement@5f4da5c3; Ref(Ref(int)) a; Model.Statements.Heap.NewStatement@443b7951; Model.Statements.Heap.NewStatement@14514713; print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [Model.Statements.Heap.NewStatement@5f4da5c3; Ref(Ref(int)) a; Model.Statements.Heap.NewStatement@443b7951; Model.Statements.Heap.NewStatement@14514713; print(Rh(Rh(a)))    ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [Ref(Ref(int)) a; Model.Statements.Heap.NewStatement@443b7951; Model.Statements.Heap.NewStatement@14514713; print(Rh(Rh(a)))   , Model.Statements.Heap.NewStatement@5f4da5c3]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@694f9431]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Model.DataTypes.RefType@6659c656 v; New (v20); Model.DataTypes.RefType@7591083d a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Model.DataTypes.RefType@7591083d a; New (av); New (v30); print(Rh(Rh(a)))    , Model.DataTypes.RefType@6659c656 v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Model.DataTypes.RefType@7591083d a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@379619aa}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Model.DataTypes.RefType@7591083d a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@379619aa}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@6f2b958e}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@aec6354}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@aec6354}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=Model.Values.RefValue@15d0c81b}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=Model.Values.RefValue@15d0c81b}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v20); Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   , New (v20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (av); New (v30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (av); New (v30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (av); New (v30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v30); print(Rh(Rh(a))) , New (av)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (V:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (V:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (V:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (V:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (V:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (V:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (V:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (V:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (V:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (V:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [Ref(int) V; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) V]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {V=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {V=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: []
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: [20]
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: []
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: [20]
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: []
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: [20]
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: []
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: [20]
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: []
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: [20]
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: [Ref(int) v; New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))     ]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [New (v:20); Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))    ]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   , New (v:20)]
+Symbol table: {v=(0: int)}
+Out list:: []
+Heap: [ {}]]
+
+[ExeStack: [Ref(Ref(int)) a; New (a:v); New (v:30); print(Rh(Rh(a)))   ]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  , Ref(Ref(int)) a]
+Symbol table: {v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (a:v); New (v:30); print(Rh(Rh(a)))  ]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) , New (a:v)]
+Symbol table: {a=(0: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20}]]
+
+[ExeStack: [New (v:30); print(Rh(Rh(a))) ]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a))), New (v:30)]
+Symbol table: {a=(2: Ref(int)), v=(1: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int)}]]
+
+[ExeStack: [print(Rh(Rh(a)))]
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: []
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+
+[ExeStack: []
+Symbol table: {a=(2: Ref(int)), v=(3: int)}
+Out list:: [20]
+Heap: [ {1=20, 2=(1: int), 3=30}]]
+

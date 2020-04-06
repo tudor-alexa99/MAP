@@ -1,0 +1,20 @@
+[ExeStack: [Ref(int) v; New (v20); print(Rh(v)); WriteHeap(v, 30); print(Rh(v)+5)    ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [New (v20); print(Rh(v)); WriteHeap(v, 30); print(Rh(v)+5)   , Ref(int) v]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [New (v20); print(Rh(v)); WriteHeap(v, 30); print(Rh(v)+5)   ]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+
+[ExeStack: [print(Rh(v)); WriteHeap(v, 30); print(Rh(v)+5)  , New (v20)]
+Symbol table: {}
+Out list:: []
+Heap: Model.ADT.MyHeap@2530c12]
+

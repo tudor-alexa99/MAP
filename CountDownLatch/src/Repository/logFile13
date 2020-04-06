@@ -1,0 +1,1380 @@
+[0]ExeStack: [int v; Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))      ]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(0: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(0: int), v=32}
+[1]Out list:: [10, 32]
+[1]Heap: [ {}]
+
+[0]ExeStack: [int v; Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))      ]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(e))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(e))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 32, 30]
+[1]Heap: [ {1=30}]
+
+[0]ExeStack: [int v; Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))      ]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(Rh(a))]
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[0]ExeStack: [int v; Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))      ]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Ref(int) a; v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))     , int v]
+[0]Symbol table: {}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [v=10; New (a:22); Model.Statements.Fork@6d21714c; print(v); print(Rh(a))    , Ref(int) a]
+[0]Symbol table: {v=0}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: [Model.Statements.Fork@6d21714c; print(v); print(Rh(a))  , New (a:22)]
+[0]Symbol table: {a=(0: int), v=10}
+[0]Out list:: []
+[0]Heap: [ {}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[0]ExeStack: []
+[0]Symbol table: {a=(1: int), v=10}
+[0]Out list:: [10, 22]
+[0]Heap: [ {1=22}]
+
+[1]ExeStack: [WriteHeap(a, 30); v=32; print(v); print(Rh(a))   ]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [v=32; print(v); print(Rh(a))  , WriteHeap(a, 30)]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=22}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: [print(v); print(Rh(a)) , v=32]
+[1]Symbol table: {a=(1: int), v=10}
+[1]Out list:: [10, 22]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+
+[1]ExeStack: []
+[1]Symbol table: {a=(1: int), v=32}
+[1]Out list:: [10, 22, 32, 30]
+[1]Heap: [ {1=30}]
+

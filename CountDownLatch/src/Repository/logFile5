@@ -1,0 +1,110 @@
+[ExeStack: [Bool v; v=Model.Expressions.RelationalExpression@5387f9e0; print(v)  ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) , Bool v]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) ]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v), v=Model.Expressions.RelationalExpression@5387f9e0]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [Bool v; v=Model.Expressions.RelationalExpression@5387f9e0; print(v)  ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) , Bool v]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) ]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v), v=Model.Expressions.RelationalExpression@5387f9e0]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v)]
+Symbol table: {v=true}
+Out list:: []
+]
+
+[ExeStack: []
+Symbol table: {v=true}
+Out list:: [true]
+]
+
+[ExeStack: [Bool v; v=Model.Expressions.RelationalExpression@5387f9e0; print(v)  ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) , Bool v]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) ]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v), v=Model.Expressions.RelationalExpression@5387f9e0]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v)]
+Symbol table: {v=true}
+Out list:: []
+]
+
+[ExeStack: []
+Symbol table: {v=true}
+Out list:: [true]
+]
+
+[ExeStack: [Bool v; v=Model.Expressions.RelationalExpression@5387f9e0; print(v)  ]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) , Bool v]
+Symbol table: {}
+Out list:: []
+]
+
+[ExeStack: [v=Model.Expressions.RelationalExpression@5387f9e0; print(v) ]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v), v=Model.Expressions.RelationalExpression@5387f9e0]
+Symbol table: {v=false}
+Out list:: []
+]
+
+[ExeStack: [print(v)]
+Symbol table: {v=true}
+Out list:: []
+]
+
+[ExeStack: []
+Symbol table: {v=true}
+Out list:: [true]
+]
+
